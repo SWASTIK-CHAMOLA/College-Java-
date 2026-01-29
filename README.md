@@ -24,7 +24,7 @@ This program allows users to input details for two cars and displays the entered
 
 ---
 
-### 📆 24/01/2026 (Experiment 3)
+### 📆 24/01/2026 
 - Implemented **Duplicate Element Checker**
 - Program takes **user input** for array size and elements
 - Uses **nested loops** to compare values
@@ -34,6 +34,12 @@ This program allows users to input details for two cars and displays the entered
 This program allows users to enter array elements and checks if any duplicate values are present.
 
 ---
+
+### 📆 27/01/2026 
+- Implemented **Java Inheritance Example**
+- This project demonstrates basic **inheritance** in Java using `Car` and `BMW` classes.
+- The `BMW` class extends `Car`, uses the `super()` keyword to call the parent constructor, and accesses inherited variables.
+- It also shows the use of the `this` keyword to call class methods and initialize variables.
 
 ## 🛠 Tech Used
 

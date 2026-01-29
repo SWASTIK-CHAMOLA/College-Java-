@@ -1,6 +1,6 @@
 # 📘 College-Java
 
-Set of Java programs written for college classes and practice.
+Set of Java programs written for college classes and practice.(Includes only theory)
 
 ---
 
